@@ -1,0 +1,1 @@
+Security Check demo (demo only): suspicious text → quick check → plain-English guidance → you're protected.

@@ -1,0 +1,1 @@
+Booking demo: customer calls after hours → AI books the job → calendar confirmed.
